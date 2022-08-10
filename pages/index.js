@@ -5,22 +5,12 @@ const Home = () => {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen py-2">
       <Head>
-        <title>My TailwindCSS / Next.js Starter</title>
+        <title>Progreso</title>
         <link rel="icon" href="/surfing.ico" />
       </Head>
 
       <main className="flex flex-col items-center justify-center flex-1 w-full px-20 text-center">
-        <h1 className="text-6xl font-bold">
-          My&nbsp;
-          <a className="text-blue-600" href="https://nextjs.org">
-            Next.js&nbsp;
-          </a>
-          &&nbsp;
-          <a className="text-blue-600" href="https://tailwind.css">
-            TailwindCSS&nbsp;
-          </a>
-          Starter
-        </h1>
+        <h1 className="text-6xl font-bold">Progreso</h1>
 
         <p className="mt-3 text-2xl">
           Get started by editing{' '}
